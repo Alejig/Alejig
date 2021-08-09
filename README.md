@@ -1,13 +1,4 @@
-### Hi there 👋
+### Welcome there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... my portolio
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... web developpement
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... alexandrejigmond at gmail dot com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on my portolio and i’m looking to collaborate on web developpement
+📫 alexandrejigmond at gmail dot com
